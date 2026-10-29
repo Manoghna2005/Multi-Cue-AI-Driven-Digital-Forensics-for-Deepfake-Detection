@@ -1,0 +1,6 @@
+{
+  "name": "Deepfake Forensics & Analysis Studio",
+  "description": "AI-based deepfake detection utilizing visual cues, machine learning classifiers, XceptionNet deep learning, and prediction fusion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
